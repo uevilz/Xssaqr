@@ -1,0 +1,14 @@
+# See all options
+python3 xssaqr.py -h
+
+# Scan one URL
+python3 xssaqr.py -u "https://target.com/?q=test"
+
+# Scan a list
+python3 xssaqr.py -i urls.txt
+
+# With cookies
+python3 xssaqr.py -i urls.txt -H "Cookie: PHPSESSID=abc"
+
+# Save results
+python3 xssaqr.py -i urls.txt -o results.txt
