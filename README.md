@@ -21,6 +21,10 @@ The tool focuses on testing URL parameters with payloads and analyzing HTTP resp
 * Python 3.10+
 * pip
 * Internet connection to test authorized web targets.
+* requests
+colorama
+urllib3
+
 
 ## Installation
 
