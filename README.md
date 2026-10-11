@@ -25,7 +25,7 @@ The tool focuses on testing URL parameters with payloads and analyzing HTTP resp
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Xssaqr.git
+git clone https://github.com/uevilz/Xssaqr.git
 cd Xssaqr
 pip install -r requirements.txt
 ```
@@ -61,7 +61,6 @@ Xssaqr is intended for authorized security testing, penetration testing, and edu
 **Only test websites and applications that you own or have explicit permission to assess.**
 
 ## Author
-
-**Far7an**
+Far7an
 
 Project: Xssaqr
