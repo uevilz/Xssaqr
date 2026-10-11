@@ -32,6 +32,7 @@ urllib3
 git clone https://github.com/uevilz/Xssaqr.git
 cd Xssaqr
 pip install -r requirements.txt
+chmod +x xssaqr.py
 ```
 
 ## Usage
