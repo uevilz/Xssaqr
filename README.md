@@ -69,3 +69,13 @@ Xssaqr is intended for authorized security testing, penetration testing, and edu
 Far7an
 
 Project: Xssaqr
+
+## Disclaimer
+
+This tool is for authorized testing only.
+
+Use it on systems you own or have written permission to test. Don't use it on random websites you find. That's illegal in most countries and can get you in serious trouble.
+
+I'm not responsible for what you do with this tool. If you break the law, that's on you.
+
+If you're not sure whether you're allowed to test something, don't.
